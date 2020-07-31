@@ -1,3 +1,8 @@
+let body = document.getElementsByTagName('body')[0];
+body.onload = function(){
+  insertHTML()
+} 
+
 let menusContainers = document.getElementsByClassName('menus-container')
 for (let i = 0; i<menusContainers.length ; i++){
     menusContainers[i].onclick = function(){

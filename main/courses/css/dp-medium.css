@@ -52,6 +52,11 @@ img{
     font-size: 40px;
 }
 
+.course-duration{
+    margin-top: 8px;
+    font-size: 15px;
+}
+
 /* Animation */
 
 .arrow{
