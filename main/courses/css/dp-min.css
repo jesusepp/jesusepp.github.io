@@ -5,6 +5,12 @@
 
 /* Main */
 
+body {
+    background: #0F1014 url('../img/med2-background.jpg') no-repeat fixed;
+    background-size: cover;
+    background-position: top center;
+}
+
 .titulo{
     font-size: 30px;
     padding: 75px 0;

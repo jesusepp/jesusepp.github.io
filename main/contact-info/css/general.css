@@ -3,8 +3,9 @@
 }
 
 body {
-    background: #0F1014 url('../img/formula_difuminado2.png') no-repeat fixed;
+    background: #0F1014 url('../img/backgroud-contactInfo.jpg') no-repeat fixed;
     background-size: cover;
+    background-position: center left;
 }
 
 /* Main */

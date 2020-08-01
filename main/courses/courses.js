@@ -52,4 +52,7 @@ for (let i = 0; i < span.length; i++){
   span[i].onclick = function() {
     modal[i].style.display = "none";
   }
+  modal[i].onclick = function() {
+    modal[i].style.display = "none";
+  }
 }

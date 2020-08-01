@@ -5,6 +5,7 @@
 body {
     background: #0F1014 url('../img/background.jpg') no-repeat fixed;
     background-size: cover;
+    background-position: center;
 }
 
 /* Cuerpo */
