@@ -13,35 +13,47 @@
     padding: 75px 0;
 }
 
-
-
 .p {
     display: flex;
 }
+
 .job-grade, .proy-grade{
     font-size: 30px;
     font-weight: bold;
 }
+
 .duration{
     font-size: 18px;
 }
+
 .info-job, .info-proy{
     width: 45%;
     padding: 25px 50px;
     align-self: center;
 }
-/* .complement{
-    height: 500px;
-} */
+
+.p {
+    background-color: #EEF1EF;
+}
+
 @media screen and (max-width: 1250px){
+
     .info-job, .info-proy{
         font-size: 18px;
     }
+
     @media screen and (max-width: 1150px){
+
         .info-job, .info-proy{
-            font-size: 15px;
+            font-size: 14px;
         }
-    
+
+        .job-grade, .proy-grade{
+            font-size: 20px;
+        }
+        .duration{
+            font-size: 12px;
+        }
     }
 }
 

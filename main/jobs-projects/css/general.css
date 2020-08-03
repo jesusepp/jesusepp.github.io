@@ -20,9 +20,7 @@ img{
 .titulo{
     color: #EEF1EF; 
 }
-.p {
-    background-color: #EEF1EF;
-}
+
 /* Spacing */
 
 #jobs > .p ~ .p, #proyects > .p ~ .p{
