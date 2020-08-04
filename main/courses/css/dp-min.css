@@ -25,6 +25,10 @@ body {
     padding: 30px 20px 10px;
 }
 
+.certificado ~ .certificado{
+    margin-top: 35px;
+}
+
 .title-courses{
     font-size: 14px;
 }

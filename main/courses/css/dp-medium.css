@@ -47,6 +47,10 @@ img{
     margin-bottom: 10px;
 }
 
+.certificado ~ .certificado{
+    margin-top: 50px;
+}
+
 .category-info-title{
     padding: 30px 0;
     font-size: 40px;

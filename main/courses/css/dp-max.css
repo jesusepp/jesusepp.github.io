@@ -48,6 +48,10 @@ img{
     font-size: 50px;
 }
 
+.certificado ~ .certificado{
+    margin-top: 100px;
+}
+
 .h2{
     font-size: 30px;
     margin-bottom: 20px;

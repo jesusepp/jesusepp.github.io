@@ -36,11 +36,11 @@ let img2 = document.getElementsByClassName('img-modal2');
 for (let i = 0; i < modal.length; i++){
   img[i].onclick = function(){
   modal[i].style.display = "block";
-  captionText[i].innerHTML = this.alt;
+  // captionText[i].innerHTML = this.alt;
   }
   img2[i].onclick = function(){
     modal[i].style.display = "block";
-    captionText[i].innerHTML = this.alt;
+    // captionText[i].innerHTML = this.alt;
   }
 }
 
