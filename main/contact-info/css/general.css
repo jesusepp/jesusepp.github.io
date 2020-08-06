@@ -23,10 +23,10 @@ main {
     background-color: rgba(255, 255, 255, 0.3);
 }
 
-.redes2 > a:visited, .redes2 > a:link{
+td > a:visited, td > a:link{
     color:#000000;
 }
 
-.redes2 > a:hover{
+td > a:hover{
     color:#242831;
 }

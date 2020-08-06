@@ -12,18 +12,24 @@
     }
     
     .info-redes{
+        margin: 0 auto;
         text-align: left;
         padding-bottom: 100px;
-    }
-    .redes2{
-        font-size: 30px;
-        margin:auto;
         width: 600px;
-        margin-bottom: 25px;
     }
+
+    td{
+        font-size: 30px;
+        padding: 25px 0;
+    }
+
+    .doub{
+        padding-top: 0;
+    }
+
     .icon2 > i{
-        width: 70px;
-        font-size: 55px;
+        font-size: 50px;
+        padding-right: 25px;
     }
 
 }
