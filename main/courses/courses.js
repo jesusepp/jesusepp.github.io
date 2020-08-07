@@ -14,7 +14,7 @@ for (let i = 0; i<menusContainers.length ; i++){
             menusContainers[i].style.position = 'relative';
         } else {
             arrow.style.transform = 'rotate(0deg)';
-            j.style.maxHeight = j.scrollHeight*10 + "px";
+            j.style.maxHeight = j.scrollHeight*2 + "px";
             menusContainers[i].style.position = 'sticky';
         }
     }
