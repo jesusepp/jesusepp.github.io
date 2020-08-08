@@ -10,9 +10,6 @@
     font-size: 60px;
     padding: 60px 0;
 }
-img{
-    width: 100%;
-}
 
 .job-grade, .proy-grade{
     font-size: 30px;
@@ -22,13 +19,12 @@ img{
     font-size: 18px;
 }
 .info-job, .info-proy{
-    width: 90%;
     padding: 40px 35px;
     align-self: center;
 }
 .slideshow-container {
     width: 100%;
-    }
+}
 .p {
     background-color: #EEF1EF;
 }

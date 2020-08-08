@@ -63,18 +63,11 @@ Works
     transition: height 1s ease-out;
 }
 
-/* .p ~ .p, #c1{
-    max-height: 0;
-    transition: max-Height 1s ease-out;
-} */
-
 .p {
   overflow: hidden;
 }
 
 /* CSS para los SlideShows */
-
-/* * {box-sizing:border-box} */
 
 /* Slideshow container */
 .slideshow-container {
@@ -116,28 +109,6 @@ Works
   background-color: #000000;
 }
 
-/* Caption text */
-/* .text {
-  color: #EEF1EF;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 15px;
-  width: 100%;
-  text-align: center;
-} */
-
-/* Number text (1/3 etc) */
-/* .numbertext {
-  color: #EEF1EF;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-  background-color: rgba(0,0,0,0.8);
-  border-radius: 0 0 3px 0;
-} */
-
 .dots{
   position: absolute;
   bottom: 15px;
@@ -161,21 +132,3 @@ Works
 .active, .dot:hover {
   background-color: #EEF1EF;
 }
-
-/* Fading animation */
-/* .fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-} */
-
-/* @-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-} */
-
-/* @keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-} */
